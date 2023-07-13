@@ -1,4 +1,4 @@
-Chapter 1: Identifying Underperformance: Signs and Symptoms of Underperformance
+Signs and Symptoms of Underperformance
 ===============================================================================
 
 Identifying underperformance is the first step in addressing quality and efficiency issues in legal teams. In this chapter, we will explore the signs and symptoms of underperformance and provide practical guidance on how to identify them.

@@ -1,4 +1,4 @@
-Chapter 4: Process Improvement: Identifying Process Inefficiencies
+Identifying Process Inefficiencies
 ==================================================================
 
 Identifying process inefficiencies is a critical component of achieving quality and efficiency in legal services. When processes are inefficient, it can lead to delays, errors, and increased costs, which can impact overall productivity and client satisfaction. In this chapter, we will explore some key strategies for identifying process inefficiencies in legal teams.

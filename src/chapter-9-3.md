@@ -1,4 +1,4 @@
-Chapter 8: Performance Management: Terminating Employment When Necessary
+Terminating Employment When Necessary
 ========================================================================
 
 Terminating employment is a difficult decision, but it may be necessary in cases of ongoing underperformance or other serious policy violations. In legal services, where quality and efficiency are paramount, underperforming employees can have a significant impact on the success of the organization. In this chapter, we will explore some key considerations for terminating employment when necessary.

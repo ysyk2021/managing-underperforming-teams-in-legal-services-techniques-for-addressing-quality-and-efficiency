@@ -1,4 +1,4 @@
-Chapter 1: Identifying Underperformance: Risks and Consequences of Underperformance
+Risks and Consequences of Underperformance
 ===================================================================================
 
 Identifying underperformance is an essential component of managing teams in legal services. Failure to identify and address underperformance can lead to a range of risks and consequences that can negatively impact the quality and efficiency of legal operations. In this chapter, we will explore some key risks and consequences of underperformance.

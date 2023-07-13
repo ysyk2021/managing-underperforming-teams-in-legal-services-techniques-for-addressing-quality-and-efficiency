@@ -1,4 +1,4 @@
-Chapter 6: Leadership Strategies: Empowering and Motivating Team Members
+Empowering and Motivating Team Members
 ========================================================================
 
 Effective leadership is essential for managing underperforming teams in legal services. Leaders who can empower and motivate their team members can drive positive change and improve overall quality and efficiency. In this chapter, we will explore some key strategies for empowering and motivating team members.

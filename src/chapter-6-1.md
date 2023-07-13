@@ -1,4 +1,4 @@
-Chapter 5: Team Building: Building a Positive Team Culture
+Building a Positive Team Culture
 ==========================================================
 
 Building a positive team culture is essential for achieving success in legal services. A positive team culture can help to promote open communication, mutual respect, and a shared commitment to achieving organizational goals. In this chapter, we will explore some key strategies for building a positive team culture in legal teams.

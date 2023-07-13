@@ -1,4 +1,4 @@
-Chapter 6: Leadership Strategies: Leading by Example
+Leading by Example
 ====================================================
 
 Effective leadership is critical for achieving success in legal services. One key component of effective leadership is leading by example. When leaders model positive behaviors, demonstrate a commitment to excellence, and show respect and compassion for team members, they can inspire and motivate their teams to achieve great things. In this chapter, we will explore some key strategies for leading by example in legal teams.

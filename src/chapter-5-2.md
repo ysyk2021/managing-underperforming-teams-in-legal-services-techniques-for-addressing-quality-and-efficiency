@@ -1,4 +1,4 @@
-Chapter 4: Process Improvement: Developing Process Improvement Plans
+Developing Process Improvement Plans
 ====================================================================
 
 Process improvement is critical for achieving quality and efficiency in legal services. Developing process improvement plans can help to identify areas for improvement, implement changes, and monitor progress over time. In this chapter, we will explore some key strategies for developing effective process improvement plans in legal teams.

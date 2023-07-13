@@ -1,4 +1,4 @@
-Chapter 7: Change Management: Managing Change in Legal Services
+Managing Change in Legal Services
 ===============================================================
 
 Change is a constant in the legal industry, and effective change management is critical for achieving success. Managing change in legal services requires careful planning, communication, and collaboration to ensure that team members are engaged and committed to the change initiative. In this chapter, we will explore some key strategies for managing change in legal teams.

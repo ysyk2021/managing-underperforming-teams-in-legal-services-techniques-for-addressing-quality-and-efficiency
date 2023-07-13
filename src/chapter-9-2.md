@@ -1,4 +1,4 @@
-Chapter 8: Performance Management: Addressing Disciplinary Issues
+Addressing Disciplinary Issues
 =================================================================
 
 Addressing disciplinary issues is an important part of performance management in legal services. While most employees strive to meet or exceed established performance standards, there may be occasions when disciplinary action is necessary to address underperformance or other issues that are impacting the quality or efficiency of legal operations. In this chapter, we will explore some key strategies for addressing disciplinary issues in legal services.

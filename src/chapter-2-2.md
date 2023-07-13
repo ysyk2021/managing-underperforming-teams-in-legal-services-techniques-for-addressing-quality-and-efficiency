@@ -1,4 +1,4 @@
-Chapter 1: Identifying Underperformance: Causes of Underperformance in Legal Teams
+Causes of Underperformance in Legal Teams
 ==================================================================================
 
 Identifying the causes of underperformance is crucial for addressing quality and efficiency issues in legal teams. In this chapter, we will explore the common causes of underperformance in legal teams and provide practical guidance on how to address them.

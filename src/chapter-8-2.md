@@ -1,4 +1,4 @@
-Chapter 7: Change Management: Communicating Change Effectively
+Communicating Change Effectively
 ==============================================================
 
 Change is a constant in the legal industry, and effective change management requires effective communication. Communicating change effectively can help to promote understanding, buy-in, and engagement among team members, and can ultimately lead to successful outcomes. In this chapter, we will explore some key strategies for communicating change effectively in legal teams.

@@ -1,4 +1,4 @@
-Chapter 2: Evaluating Team Performance: Identifying Areas for Improvement
+Identifying Areas for Improvement
 =========================================================================
 
 Evaluating team performance is an essential component of managing underperforming teams in legal services. Effective evaluation helps to identify areas where improvement is needed, and provides a framework for developing strategies for addressing quality and efficiency issues. In this chapter, we will explore some key strategies for evaluating team performance and identifying areas for improvement.

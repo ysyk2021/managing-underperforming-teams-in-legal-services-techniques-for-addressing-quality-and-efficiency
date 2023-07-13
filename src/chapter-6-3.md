@@ -1,4 +1,4 @@
-Chapter 5: Team Building: Fostering Accountability and Ownership
+Fostering Accountability and Ownership
 ================================================================
 
 Fostering accountability and ownership is a critical component of effective team building in legal services. When team members feel accountable for their work and take ownership of their responsibilities, they are more likely to remain engaged and committed to achieving organizational goals. In this chapter, we will explore some key strategies for fostering accountability and ownership in legal teams.

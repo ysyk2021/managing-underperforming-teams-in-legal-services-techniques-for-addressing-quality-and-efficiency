@@ -1,7 +1,6 @@
 # Summary
 
 - [Introduction](README.md)
-- [Introduction](chapter-1.md)
   - [Purpose of the book](chapter-1-1.md)
   - [Overview of underperformance issues in legal services](chapter-1-2.md)
   - [Importance of effective management](chapter-1-3.md)
@@ -37,8 +36,5 @@
   - [Conducting performance evaluations](chapter-9-1.md)
   - [Addressing disciplinary issues](chapter-9-2.md)
   - [Terminating employment when necessary](chapter-9-3.md)
-- [Conclusion](chapter-10.md)
-  - [Summary of key points](chapter-10-1.md)
-  - [Final thoughts on managing underperforming teams in legal services](chapter-10-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

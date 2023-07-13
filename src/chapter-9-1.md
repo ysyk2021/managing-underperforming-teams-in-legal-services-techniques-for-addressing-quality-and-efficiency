@@ -1,4 +1,4 @@
-Chapter 8: Performance Management: Conducting Performance Evaluations
+Conducting Performance Evaluations
 =====================================================================
 
 Conducting performance evaluations is an important part of performance management in legal services. Effective performance evaluations provide an opportunity for managers to provide feedback on employee performance, identify areas for improvement, and develop strategies for addressing underperformance issues. In this chapter, we will explore some key strategies for conducting effective performance evaluations.

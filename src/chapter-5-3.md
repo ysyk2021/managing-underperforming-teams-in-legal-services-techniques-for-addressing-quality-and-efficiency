@@ -1,4 +1,4 @@
-Chapter 4: Process Improvement: Implementing and Monitoring Improvements
+Implementing and Monitoring Improvements
 ========================================================================
 
 Process improvement is a key strategy for addressing underperformance issues in legal services. By identifying areas where processes can be streamlined, standardized, or otherwise improved, organizations can promote overall quality and efficiency and achieve organizational goals. In this chapter, we will explore some key strategies for implementing and monitoring process improvements.

@@ -1,4 +1,4 @@
-Chapter 5: Team Building: Encouraging Collaboration and Communication
+Encouraging Collaboration and Communication
 =====================================================================
 
 Encouraging collaboration and communication is a critical component of team building in legal services. Effective collaboration and communication can help to break down silos, reduce errors and redundancies, and promote overall quality and efficiency. In this chapter, we will explore some key strategies for encouraging collaboration and communication in legal teams.

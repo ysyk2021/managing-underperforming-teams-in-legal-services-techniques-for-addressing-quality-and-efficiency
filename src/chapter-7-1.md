@@ -1,4 +1,4 @@
-Chapter 6: Leadership Strategies: Setting Clear Expectations
+Setting Clear Expectations
 ============================================================
 
 Effective leadership is critical for achieving success in legal services. One key component of effective leadership is setting clear expectations for team members. Clear expectations can help to promote accountability, motivation, and a shared commitment to achieving organizational goals. In this chapter, we will explore some key strategies for setting clear expectations in legal teams.

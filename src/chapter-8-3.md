@@ -1,4 +1,4 @@
-Chapter 7: Change Management: Overcoming Resistance to Change
+Overcoming Resistance to Change
 =============================================================
 
 Change is a constant in the legal industry, and effective change management is critical for achieving success. However, change can also be met with resistance from team members, which can hinder progress and impact overall performance. In this chapter, we will explore some key strategies for overcoming resistance to change in legal teams.

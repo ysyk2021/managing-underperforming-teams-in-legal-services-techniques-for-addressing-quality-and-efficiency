@@ -1,4 +1,4 @@
-Chapter 3: Coaching and Development: Developing Individual Development Plans
+Developing Individual Development Plans
 ============================================================================
 
 Developing individual development plans (IDPs) is an effective strategy for promoting the growth and development of team members in legal services. IDPs provide a framework for setting goals, identifying areas for improvement, and outlining specific actions that team members can take to achieve their objectives. In this chapter, we will explore the key steps involved in developing effective IDPs.

@@ -1,4 +1,4 @@
-Chapter 3: Coaching and Development: Strategies for Coaching Underperforming Team Members
+Strategies for Coaching Underperforming Team Members
 =========================================================================================
 
 Coaching is an essential skill for managers in legal services, particularly when dealing with underperforming team members. Effective coaching can help to identify the root causes of underperformance and develop strategies for improvement. In this chapter, we will explore some key strategies for coaching underperforming team members.
