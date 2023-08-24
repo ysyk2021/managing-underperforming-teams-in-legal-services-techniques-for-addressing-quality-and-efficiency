@@ -1,4 +1,3 @@
-# Implementing and Monitoring Improvements
 
 Implementing and monitoring improvements is a crucial step in addressing quality and efficiency issues within underperforming legal teams. This chapter explores the importance of effective implementation and monitoring and provides guidance on how to successfully execute and track improvements.
 

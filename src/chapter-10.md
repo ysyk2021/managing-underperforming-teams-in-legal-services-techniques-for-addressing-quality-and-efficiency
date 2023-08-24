@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 Effective management is critical for achieving success in legal services. Managing underperforming teams requires a combination of strategies, including identifying underperformance issues, providing coaching and development, implementing process improvements, building positive team culture, and addressing disciplinary issues when necessary. In this book, we have explored some key techniques for managing underperforming teams in legal services.
 

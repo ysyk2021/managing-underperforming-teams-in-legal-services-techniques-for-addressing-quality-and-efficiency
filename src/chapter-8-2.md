@@ -1,4 +1,3 @@
-# Communicating Change Effectively
 
 Effective communication is crucial when managing underperforming teams in legal services and addressing issues of quality and efficiency. This chapter explores the importance of communicating change and provides guidance on how to communicate change effectively to maximize understanding, engagement, and successful implementation within the team.
 

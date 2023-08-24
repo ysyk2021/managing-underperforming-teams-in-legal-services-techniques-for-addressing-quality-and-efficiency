@@ -1,5 +1,3 @@
-Assessing Team Performance Against KPIs
-===============================================================================
 
 Evaluating team performance is an essential component of managing underperforming teams in legal services. One effective way to evaluate performance is through the use of key performance indicators (KPIs). In this chapter, we will explore how to assess team performance against KPIs.
 

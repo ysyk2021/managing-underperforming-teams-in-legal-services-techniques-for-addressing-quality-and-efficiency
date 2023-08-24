@@ -1,5 +1,3 @@
-Chapter 6: Leadership Strategies
-================================
 
 Effective leadership is critical for achieving success in legal services. Leaders must be able to manage and motivate their teams to meet organizational goals, while also promoting a positive and productive work environment. In this chapter, we will explore some key strategies for effective leadership in legal teams.
 

@@ -1,4 +1,3 @@
-# Causes of Underperformance in Legal Teams
 
 Understanding the causes of underperformance is crucial for effectively managing legal teams and implementing strategies to address quality and efficiency issues. This chapter explores common factors that contribute to underperformance within legal services, enabling managers to identify and tackle these causes head-on.
 

@@ -1,4 +1,3 @@
-# Managing Change in Legal Services
 
 Managing change is a critical aspect of addressing quality and efficiency issues within underperforming teams in legal services. This chapter explores the challenges associated with change and provides guidance on how to effectively manage change initiatives to drive improvement and overcome resistance within the team.
 

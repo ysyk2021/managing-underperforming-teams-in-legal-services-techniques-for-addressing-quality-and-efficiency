@@ -1,5 +1,3 @@
-Chapter 7: Change Management
-============================
 
 Change is an essential component of any organization's growth and development, and legal services are no exception. Managing change in legal services requires a comprehensive approach that addresses the quality and efficiency issues while ensuring that the team members are on board with the changes.
 

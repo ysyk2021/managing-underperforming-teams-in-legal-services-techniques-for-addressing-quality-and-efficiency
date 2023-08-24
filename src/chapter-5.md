@@ -1,5 +1,3 @@
-Chapter 4: Process Improvement
-==============================
 
 Process improvement is an essential component of managing underperforming teams in legal services. Inefficient processes can lead to wasted time, increased costs, and decreased quality. In this chapter, we will explore some key strategies for identifying inefficiencies, developing improvement plans, and implementing and monitoring improvements.
 

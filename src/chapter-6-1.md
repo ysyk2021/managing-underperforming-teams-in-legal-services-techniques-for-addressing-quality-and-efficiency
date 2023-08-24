@@ -1,4 +1,3 @@
-# Building a Positive Team Culture
 
 Building a positive team culture is essential for addressing quality and efficiency issues within underperforming legal teams. This chapter explores the importance of fostering a positive team culture and provides guidance on how to create an environment that promotes collaboration, innovation, and continuous improvement.
 

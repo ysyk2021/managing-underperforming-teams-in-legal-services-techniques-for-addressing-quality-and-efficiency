@@ -1,4 +1,3 @@
-# Signs and Symptoms of Underperformance
 
 Identifying the signs and symptoms of underperformance within legal services teams is crucial for effective management and timely intervention. This chapter explores the common indicators that may suggest a team is not meeting quality and efficiency standards, enabling managers to proactively address these issues.
 

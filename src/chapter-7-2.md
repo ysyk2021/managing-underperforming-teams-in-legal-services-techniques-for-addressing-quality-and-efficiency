@@ -1,4 +1,3 @@
-# Leading by Example
 
 Leading by example is a crucial strategy for managing underperforming teams in legal services. This chapter explores the significance of leading by example and provides guidance on how to exhibit the behaviors and qualities that inspire and motivate team members to improve their performance, quality, and efficiency.
 

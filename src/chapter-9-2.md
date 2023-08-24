@@ -1,4 +1,3 @@
-# Addressing Disciplinary Issues
 
 Addressing disciplinary issues is a crucial aspect of managing underperforming teams in legal services and maintaining high standards of quality and efficiency. This chapter explores effective strategies for addressing disciplinary issues within the legal team and promoting positive behavior and performance.
 

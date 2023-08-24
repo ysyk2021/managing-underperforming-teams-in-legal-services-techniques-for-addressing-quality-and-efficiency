@@ -1,4 +1,3 @@
-# Identifying Process Inefficiencies
 
 Identifying process inefficiencies is a critical step in addressing quality and efficiency issues within underperforming legal teams. This chapter explores the importance of identifying and addressing inefficiencies in legal processes and provides guidance on how to identify and rectify them effectively.
 

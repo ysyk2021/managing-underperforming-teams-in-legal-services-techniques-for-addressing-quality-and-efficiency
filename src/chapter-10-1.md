@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 Managing underperforming teams in legal services requires a comprehensive approach that involves evaluating team performance, identifying areas for improvement, coaching and development, and process improvement. In this book, we have explored some key strategies for addressing quality and efficiency issues within legal teams. Here is a summary of the key points from each chapter:
 

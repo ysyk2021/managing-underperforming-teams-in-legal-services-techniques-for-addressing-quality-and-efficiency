@@ -1,5 +1,3 @@
-Chapter 3: Coaching and Development
-===================================
 
 Coaching and development are essential components of managing underperforming teams in legal services. Effective coaching can help to identify the root causes of underperformance and develop strategies for improvement, while development plans provide a framework for setting goals and outlining specific actions that team members can take to achieve their objectives. In this chapter, we will explore some key strategies for coaching underperforming team members, developing individual development plans, and providing effective feedback and recognition.
 
@@ -19,5 +17,4 @@ Providing Feedback and Recognition
 Providing effective feedback and recognition is an essential part of coaching and development in legal services. Feedback helps team members understand their strengths and weaknesses, while recognition acknowledges their contributions and motivates them to continue performing at a high level. By being specific and timely, using the "sandwich" technique, focusing on solutions, providing recognition and rewards, and encouraging open communication, leaders can help team members develop their skills and achieve their goals more effectively.
 
 In conclusion, coaching and development are essential components of managing underperforming teams in legal services. By leveraging strategies such as those outlined in this chapter, leaders can empower and motivate their team members, improve overall quality and efficiency, and promote a culture of continuous improvement.
-
 

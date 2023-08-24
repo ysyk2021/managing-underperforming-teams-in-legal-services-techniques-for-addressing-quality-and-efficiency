@@ -1,4 +1,3 @@
-# Setting Clear Expectations
 
 Setting clear expectations is a critical aspect of managing underperforming teams in legal services. This chapter explores the importance of establishing clear expectations and provides guidance on how to define, communicate, and manage expectations effectively to improve quality and efficiency within the team.
 

@@ -1,4 +1,3 @@
-# Conducting Performance Evaluations
 
 Conducting performance evaluations is an essential part of managing underperforming teams in legal services and addressing quality and efficiency issues. This chapter explores the importance of performance evaluations and provides guidance on how to conduct them effectively within the legal team.
 

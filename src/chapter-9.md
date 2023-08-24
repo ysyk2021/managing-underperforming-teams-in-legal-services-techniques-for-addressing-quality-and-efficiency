@@ -1,5 +1,3 @@
-Chapter 8: Performance Management
-=================================
 
 Effective performance management is critical for achieving success in legal services. Managing underperforming teams requires a combination of strategies, including identifying underperformance issues, providing coaching and development, implementing process improvements, building positive team culture, and addressing disciplinary issues when necessary. In this chapter, we will explore some key techniques for effective performance management in legal teams.
 

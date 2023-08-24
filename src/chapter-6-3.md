@@ -1,4 +1,3 @@
-# Fostering Accountability and Ownership
 
 Accountability and ownership are crucial factors in addressing quality and efficiency issues within underperforming legal teams. This chapter explores the importance of fostering a sense of accountability and ownership among team members and provides guidance on how to create an environment that promotes responsibility, initiative, and improved performance.
 

@@ -1,4 +1,3 @@
-# Terminating Employment When Necessary
 
 Terminating employment is a challenging but sometimes necessary step in managing underperforming teams in legal services. This chapter explores the factors to consider and the steps to take when terminating the employment of a team member, ensuring fairness, compliance with legal requirements, and minimizing disruption to the team.
 

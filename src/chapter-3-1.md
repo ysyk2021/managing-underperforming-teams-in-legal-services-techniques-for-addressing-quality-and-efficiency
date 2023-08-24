@@ -1,5 +1,3 @@
-Key Performance Indicators (KPIs) for Legal Teams
-=========================================================================================
 
 Evaluating team performance is an essential component of managing underperforming teams in legal services. One effective way to evaluate performance is through the use of key performance indicators (KPIs). KPIs are specific metrics that can be used to track progress towards achieving organizational goals and objectives. In this chapter, we will explore some key performance indicators that can be used to evaluate the performance of legal teams.
 

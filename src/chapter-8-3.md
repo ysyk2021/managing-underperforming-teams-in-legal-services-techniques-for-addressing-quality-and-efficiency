@@ -1,4 +1,3 @@
-# Overcoming Resistance to Change
 
 Overcoming resistance to change is a critical aspect of managing underperforming teams in legal services and addressing quality and efficiency issues. This chapter explores common reasons for resistance to change and provides strategies to effectively overcome resistance within the team.
 

@@ -1,4 +1,3 @@
-# Developing Process Improvement Plans
 
 Developing process improvement plans is a crucial step in addressing quality and efficiency issues within underperforming legal teams. This chapter explores the importance of developing effective process improvement plans and provides guidance on how to create and implement them successfully.
 

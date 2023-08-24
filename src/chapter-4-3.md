@@ -1,5 +1,3 @@
-Providing Feedback and Recognition
-=======================================================================
 
 Providing feedback and recognition is an essential part of coaching and development in legal services. Feedback helps team members understand their strengths and weaknesses, while recognition acknowledges their contributions and motivates them to continue performing at a high level. In this chapter, we will explore some key strategies for providing effective feedback and recognition.
 

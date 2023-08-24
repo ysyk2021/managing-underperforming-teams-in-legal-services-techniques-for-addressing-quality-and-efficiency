@@ -1,5 +1,3 @@
-Purpose of the Book
-=================================
 
 The purpose of this book is to provide legal services managers with practical techniques for managing underperforming teams, addressing quality and efficiency issues, and promoting overall success in legal operations. We will explore some common causes of underperformance in legal teams, including inadequate training or resources, unclear expectations or goals, ineffective management practices, poor communication or collaboration, lack of accountability, and personal or professional issues that may be affecting individual team members.
 
